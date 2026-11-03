@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "entry",
+      "label": "원천 진입 안내",
+      "description": "원천 진입 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../AGENTS.md",
+      "topics": [
+        "entry"
+      ]
+    },
+    {
+      "id": "source-info",
+      "label": "원천 정보",
+      "description": "원천 정보",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../source.json",
+      "topics": [
+        "source-info"
+      ]
+    },
+    {
+      "id": "implementation",
+      "label": "implementation 내부 스킬",
+      "description": "implementation 내부 스킬",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/implementation/SKILL.md",
+      "topics": [
+        "implementation"
+      ]
+    },
+    {
+      "id": "workflow",
+      "label": "implementation-workflow",
+      "description": "implementation-workflow",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/implementation/sources/workflow.md",
+      "topics": [
+        "engineering",
+        "implementation",
+        "workflow"
+      ]
+    },
+    {
+      "id": "client-contract",
+      "label": "참조 체계 참여 계약",
+      "description": "원천 소유권과 내부 스킬 노출 경계",
+      "kind": "source",
+      "access": "web",
+      "locator": "https://raw.githubusercontent.com/source-guided/project-builder/main/plugins/project-builder/sources/source-contract.md",
+      "topics": [
+        "contract",
+        "reference"
+      ]
+    }
+  ]
+}

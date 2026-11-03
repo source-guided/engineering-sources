@@ -1,0 +1,12 @@
+[
+  ".github/workflows/validate.yml",
+  ".gitignore",
+  "AGENTS.md",
+  "LICENSE",
+  "README.md",
+  "capabilities/implementation/SKILL.md",
+  "capabilities/implementation/sources/workflow.md",
+  "references/index.json",
+  "source-files.json",
+  "source.json"
+]

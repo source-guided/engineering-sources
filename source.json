@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "id": "engineering",
+  "version": "1.0.0",
+  "role": "구현·기술 검증",
+  "exposure": "source-only",
+  "contract": "project-builder.source/v1",
+  "entry": "references/index.json",
+  "capabilities": [
+    "capabilities/implementation/SKILL.md"
+  ]
+}
