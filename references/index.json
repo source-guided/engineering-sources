@@ -25,26 +25,34 @@
     },
     {
       "id": "implementation",
-      "label": "implementation 내부 스킬",
-      "description": "implementation 내부 스킬",
+      "label": "기능 구현·기술 검증 스킬",
+      "description": "요구사항을 실행 가능한 기능으로 구현할 때의 진입 안내",
       "kind": "source",
       "access": "relative",
       "locator": "../capabilities/implementation/SKILL.md",
       "topics": [
-        "implementation"
+        "implementation",
+        "구현",
+        "개발"
       ]
     },
     {
       "id": "workflow",
-      "label": "implementation-workflow",
-      "description": "implementation-workflow",
+      "label": "계약과 상태를 보존하는 기능 구현",
+      "description": "입출력 계약 검증·동시성·재시도·부분 실패를 다루는 구현 흐름",
       "kind": "source",
       "access": "relative",
       "locator": "../capabilities/implementation/sources/workflow.md",
       "topics": [
         "engineering",
         "implementation",
-        "workflow"
+        "workflow",
+        "동시성",
+        "재시도",
+        "계약 검증",
+        "concurrency",
+        "retry",
+        "contract"
       ]
     },
     {
