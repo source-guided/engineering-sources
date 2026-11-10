@@ -32,3 +32,5 @@ For a defect, establish the failing condition before accepting a proposed fix. R
 ## Hand off to verification
 
 Record the meaningful decision and implementation location, then return to the reference client for the verification guidance selected for this project. Update existing project records rather than accumulating parallel reports. Keep authoring claims, test output, real integration, deployment, and stakeholder acceptance distinct.
+
+The selected verification source owns judging outcome coverage and implementation choices. Follow it through the consuming project's connections. Use the reference client's entry procedure when implementation reveals a new material question; keep unresolved dependencies visible in the existing handoff.

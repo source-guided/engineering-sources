@@ -1,7 +1,7 @@
 {
   "format": 1,
   "id": "engineering",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "role": "구현·기술 검증",
   "exposure": "source-only",
   "contract": "project-builder.source/v1",

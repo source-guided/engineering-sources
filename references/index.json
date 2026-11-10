@@ -39,7 +39,7 @@
     {
       "id": "workflow",
       "label": "계약과 상태를 보존하는 기능 구현",
-      "description": "입출력 계약 검증·동시성·재시도·부분 실패를 다루는 구현 흐름",
+      "description": "계약·상태·실패를 보존하고 구현 선택을 사용자 결과와 대조하는 흐름",
       "kind": "source",
       "access": "relative",
       "locator": "../capabilities/implementation/sources/workflow.md",
@@ -52,7 +52,8 @@
         "계약 검증",
         "concurrency",
         "retry",
-        "contract"
+        "contract",
+        "판단 검증"
       ]
     },
     {
@@ -65,6 +66,19 @@
       "topics": [
         "contract",
         "reference"
+      ]
+    },
+    {
+      "id": "client-entry",
+      "label": "참조 진입과 적용 맥락",
+      "description": "연결된 원천의 진입 및 참조 읽기 절차",
+      "kind": "source",
+      "access": "web",
+      "locator": "https://raw.githubusercontent.com/source-guided/project-builder/main/plugins/project-builder/sources/reference-entry.md",
+      "topics": [
+        "entry",
+        "reference",
+        "coverage"
       ]
     }
   ]
